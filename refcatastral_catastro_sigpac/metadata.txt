@@ -1,0 +1,16 @@
+[general]
+name=RefCatastral - Catastro y SIGPAC España
+qgisMinimumVersion=3.0
+description=Buscador oficial de parcelas del Catastro (DGC), recintos agrícolas SIGPAC (FEGA) y capas INSPIRE WMS de España.
+about=RefCatastral es el complemento oficial de RefCatastral.es para profesionales de la topografía, agronomía, arquitectura y tasación en España. Permite buscar inmuebles por Referencia Catastral (14 o 20 caracteres) o coordenadas GPS, cargar capas WMS oficiales INSPIRE del Catastro (parcelas y edificios) y PNOA (ortofotos actuales e históricas), consultar recintos agrícolas y usos del suelo de SIGPAC, y abrir la ficha interactiva en RefCatastral.es.
+version=1.0.0
+author=RefCatastral.es
+email=info@refcatastral.es
+homepage=https://refcatastral.es
+tracker=https://github.com/refcatastral/qgis-refcatastral-espana/issues
+repository=https://github.com/refcatastral/qgis-refcatastral-espana
+tags=catastro, sigpac, espana, spain, cadastral, parcels, agriculture, fega, dgc, inspire, wms, proptech, refcatastral
+category=Plugins
+icon=icon.png
+experimental=False
+deprecated=False
